@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>35847BCB-7F96-48EB-870B-9304B226845D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>P Perfect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>374B2FC33DDF6AE86232AE416E618E827C805D4E</key>
+		<string>github.com:joshvoll/pitchperfect</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>P Perfect.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>374B2FC33DDF6AE86232AE416E618E827C805D4E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:joshvoll/pitchperfect</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>374B2FC33DDF6AE86232AE416E618E827C805D4E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>374B2FC33DDF6AE86232AE416E618E827C805D4E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>P%20Perfect</string>
+		</dict>
+	</array>
+</dict>
+</plist>
