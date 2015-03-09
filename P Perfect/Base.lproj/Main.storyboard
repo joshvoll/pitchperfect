@@ -2,6 +2,7 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6254" systemVersion="14C109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="7mC-sn-XlM">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+        <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
@@ -58,10 +59,10 @@
                                 <exclude reference="b3y-tl-bVe"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="P7e-Nc-ZMJ"/>
-                                <exclude reference="kYx-9Y-ab8"/>
                                 <exclude reference="7UW-ow-lWt"/>
                                 <exclude reference="TwL-H0-Zxn"/>
+                                <exclude reference="P7e-Nc-ZMJ"/>
+                                <exclude reference="kYx-9Y-ab8"/>
                                 <exclude reference="7IA-yI-oru"/>
                                 <exclude reference="Nsx-KI-bna"/>
                             </mask>
@@ -73,10 +74,10 @@
                                 <include reference="b3y-tl-bVe"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="P7e-Nc-ZMJ"/>
-                                <include reference="kYx-9Y-ab8"/>
                                 <include reference="7UW-ow-lWt"/>
                                 <include reference="TwL-H0-Zxn"/>
+                                <include reference="P7e-Nc-ZMJ"/>
+                                <include reference="kYx-9Y-ab8"/>
                                 <include reference="7IA-yI-oru"/>
                                 <include reference="Nsx-KI-bna"/>
                             </mask>
@@ -103,6 +104,7 @@
                         <viewControllerLayoutGuide type="bottom" id="pwV-0e-2Md"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="vJR-fM-5Db">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VCf-iu-TWW">
@@ -184,19 +186,19 @@
                                 <exclude reference="CO3-eG-B8C"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="7dV-ex-MJA"/>
-                                <exclude reference="CXZ-J5-dQP"/>
-                                <exclude reference="ZRM-Zh-eFF"/>
+                                <exclude reference="D18-ci-y2i"/>
                                 <exclude reference="Lds-AT-ldq"/>
                                 <exclude reference="MS8-QB-Xdp"/>
                                 <exclude reference="kgt-EZ-2x9"/>
-                                <exclude reference="8jc-v3-fzs"/>
-                                <exclude reference="ECB-zr-4qP"/>
-                                <exclude reference="oCd-Gq-UaC"/>
                                 <exclude reference="our-75-lJJ"/>
                                 <exclude reference="uyk-ZZ-T64"/>
                                 <exclude reference="pLR-6S-Yy2"/>
-                                <exclude reference="D18-ci-y2i"/>
+                                <exclude reference="7dV-ex-MJA"/>
+                                <exclude reference="CXZ-J5-dQP"/>
+                                <exclude reference="ZRM-Zh-eFF"/>
+                                <exclude reference="8jc-v3-fzs"/>
+                                <exclude reference="ECB-zr-4qP"/>
+                                <exclude reference="oCd-Gq-UaC"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular-widthClass=compact">
@@ -208,19 +210,19 @@
                                 <include reference="CO3-eG-B8C"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="7dV-ex-MJA"/>
-                                <exclude reference="CXZ-J5-dQP"/>
-                                <include reference="ZRM-Zh-eFF"/>
+                                <include reference="D18-ci-y2i"/>
                                 <exclude reference="Lds-AT-ldq"/>
                                 <include reference="MS8-QB-Xdp"/>
                                 <include reference="kgt-EZ-2x9"/>
-                                <include reference="8jc-v3-fzs"/>
-                                <exclude reference="ECB-zr-4qP"/>
-                                <include reference="oCd-Gq-UaC"/>
                                 <include reference="our-75-lJJ"/>
                                 <include reference="uyk-ZZ-T64"/>
                                 <include reference="pLR-6S-Yy2"/>
-                                <include reference="D18-ci-y2i"/>
+                                <include reference="7dV-ex-MJA"/>
+                                <exclude reference="CXZ-J5-dQP"/>
+                                <include reference="ZRM-Zh-eFF"/>
+                                <include reference="8jc-v3-fzs"/>
+                                <exclude reference="ECB-zr-4qP"/>
+                                <include reference="oCd-Gq-UaC"/>
                             </mask>
                         </variation>
                     </view>
